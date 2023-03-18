@@ -1,6 +1,28 @@
 # Charles
 ![Logo_Charles](https://github.com/P-e-t-e-r-Parker/Charles/blob/main/assert/Logo.png)
 
+## Settings
+### Web
+
+- Help → SSL Proxying → Install Charles Root Certificate → Install Certificate.. → Current User → Place all certificates in the following store → Browse... → Trusted Root Certification Authorities → Ok → Next → Finish → Yes → Ok
+- Install Certificate.. → Local Machine → Place all certificates in the following store → Browse... → Trusted Root Certification Authorities → Ok → Next → Finish → Yes → Ok
+- Proxy → SSL Proxying Settings... → Enable SSL Proxying → Add Include → "*.*", "[]", "*" → Ok
+
+### Mobile
+
+- Help → SSL Proxying → Install Charles Root Certificate on a Mobile Device or Remote Browser
+- Install Certificates
+
+<div align="left">
+<img src="https://github.com/P-e-t-e-r-Parker/Charles/blob/main/assert/video.gif" alt="android"  />
+</div>
+
+## HomeWork
+
+
+
+
+
 
 Сфокусироваться на ниже перечисленных запросах
 ### Ex_0: 
